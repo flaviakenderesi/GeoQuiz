@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_name">Donne-moi ton nom</string>
+    <string name="start">Commencez le quiz!</string>
+    <string name="biggest_question">Quel est le plus grand continent sur Terre?</string>
+    <string name="europe_name_question">D\'où vient le nom d\'Europe?</string>
+    <string name="hungary_question">Où est la Hongrie? Sur quel continent?</string>
+    <string name="budapest_question">Quelle est la capitale de la Hongrie?</string>
+    <string name="asia_radio">Asie</string>
+    <string name="america_radio">Amérique</string>
+    <string name="africa_radio">Afrique</string>
+    <string name="europe_radio">L\'Europe</string>
+    <string name="zeus_radio">L\'amant de Zeus s\'appelait l\'Europe</string>
+    <string name="hera_radio">L\'amant d\'Héra s\'appelait l\'Europe</string>
+    <string name="poseidon_radio">L\'amant de Poséidon s\'appelait l\'Europe</string>
+    <string name="budapest_radio">Budapest</string>
+    <string name="bucharest_radio">Bucarest</string>
+    <string name="moscow_radio">Moscou</string>
+    <string name="submit">Prêt!</string>
+    <string name="answer">répondre</string>
+    <string name="dear">Cher</string>
+    <string name="thank_you">merci de jouer avec moi!</string>
+    <string name="neighbour_question">Quels sont les 2 voisins de l\'Europe?</string>
+</resources>

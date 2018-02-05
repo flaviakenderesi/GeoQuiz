@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">GeoQuiz</string>
+    <string name="user_name">Give me your name</string>
+    <string name="start">Start Quiz !</string>
+    <string name="biggest_question">Which is the biggest continent on Earth?</string>
+    <string name="europe_name_question">Where does Europe name come from?</string>
+    <string name="hungary_question">Where is Hungary? On which continent?</string>
+    <string name="budapest_question">"What is the capital of Hungary?</string>
+    <string name="asia_radio">Asia</string>
+    <string name="america_radio">America</string>
+    <string name="africa_radio">Africa</string>
+    <string name="europe_radio">Europe</string>
+    <string name="zeus_radio">Zeus\'s lover was called Europe</string>
+    <string name="hera_radio">Hera\'s lover was called Europe</string>
+    <string name="poseidon_radio">Poseidon\'s lover was called Europe</string>
+    <string name="budapest_radio">Budapest</string>
+    <string name="bucharest_radio">Bucharest</string>
+    <string name="moscow_radio">Moscow</string>
+    <string name="submit">Ready!</string>
+    <string name="answer">answer</string>
+    <string name="dear">Dear</string>
+    <string name="thank_you">thank you for playing with me!</string>
+    <string name="neighbour_question">What is the 2 neighbours of Europe?</string>
+</resources>
